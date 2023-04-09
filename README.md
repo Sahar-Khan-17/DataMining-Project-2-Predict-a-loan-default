@@ -13,6 +13,6 @@ YES, We Can! Initially using KNIME, the data is cleansed and a clean file is exp
 
 ### Selected Outcome:
 
-![image](https://user-images.githubusercontent.com/116682872/230787334-b51c9ad8-26e1-4a2e-89c5-fcb3832db55e.png)
+![image](https://user-images.githubusercontent.com/116682872/230787358-1afeabfd-b6e2-4092-a824-3839aafd2a81.png)
 
 
